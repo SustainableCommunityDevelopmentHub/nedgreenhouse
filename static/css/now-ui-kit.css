@@ -359,7 +359,7 @@
   border-radius: 3px;
   background: #FFF;
   cursor: default;
-  box-shadow: inset 0 0 1px #FFF, inset 0 1px 7px #EBEBEB, 0 3px 6px -3px #BBB;
+  box-shadow: inset 0 0 1px #FFF, inset 0 1px 7px #9a9896, 0 3px 6px -3px #BBB;
   -webkit-transition: 300ms ease 0s;
   -moz-transition: 300ms ease 0s;
   -ms-transition: 300ms ease 0s;
@@ -1837,7 +1837,7 @@ textarea.form-control {
 
 .checkbox input[type="checkbox"]:disabled + label,
 .radio input[type="radio"]:disabled + label {
-  color: #9A9A9A;
+  color: #3d3c3c;
   opacity: .5; }
 
 .checkbox input[type="checkbox"]:disabled + label::before,
@@ -1924,11 +1924,11 @@ textarea.form-control {
   opacity: 1; }
 
 .radio input[type="radio"]:disabled + label {
-  color: #9A9A9A; }
+  color: #3d3c3c; }
 
 .radio input[type="radio"]:disabled + label::before,
 .radio input[type="radio"]:disabled + label::after {
-  color: #9A9A9A; }
+  color: #3d3c3c; }
 
 .radio.radio-inline {
   margin-top: 0; }
@@ -2178,13 +2178,13 @@ p {
 .description,
 .card-description,
 .footer-big p {
-  color: #9A9A9A;
+  color: #3d3c3c;
   font-weight: 300; }
 
 .category {
   text-transform: uppercase;
   font-weight: 700;
-  color: #9A9A9A; }
+  color: #3d3c3c; }
 
 .text-primary {
   color: #7d8935 !important; }
@@ -2302,14 +2302,14 @@ body {
   height: 60px;
   width: 60px;
   font-weight: 400;
-  color: #9A9A9A;
+  color: #3d3c3c;
   margin-right: 19px;
   background-color: rgba(222, 222, 222, 0.3);
   border-radius: 30px; }
   .nav-pills .nav-item .nav-link:hover {
     background-color: rgba(222, 222, 222, 0.3); }
   .nav-pills .nav-item .nav-link.active, .nav-pills .nav-item .nav-link.active:focus, .nav-pills .nav-item .nav-link.active:hover {
-    background-color: #9A9A9A;
+    background-color: #3d3c3c;
     color: #FFFFFF;
     box-shadow: 0px 5px 35px 0px rgba(0, 0, 0, 0.3); }
   .nav-pills .nav-item .nav-link.disabled, .nav-pills .nav-item .nav-link:disabled, .nav-pills .nav-item .nav-link[disabled] {
@@ -3600,19 +3600,19 @@ Created using IcoMoon - icomoon.io
   .login-page .card-login .input-group:last-child {
     margin-bottom: 40px; }
   .login-page .card-login.card-plain .form-control::-moz-placeholder {
-    color: #ebebeb;
+    color: #9a9896;
     opacity: 1;
     filter: alpha(opacity=100); }
   .login-page .card-login.card-plain .form-control:-moz-placeholder {
-    color: #ebebeb;
+    color: #9a9896;
     opacity: 1;
     filter: alpha(opacity=100); }
   .login-page .card-login.card-plain .form-control::-webkit-input-placeholder {
-    color: #ebebeb;
+    color: #9a9896;
     opacity: 1;
     filter: alpha(opacity=100); }
   .login-page .card-login.card-plain .form-control:-ms-input-placeholder {
-    color: #ebebeb;
+    color: #9a9896;
     opacity: 1;
     filter: alpha(opacity=100); }
   .login-page .card-login.card-plain .form-control {
@@ -3923,19 +3923,19 @@ Created using IcoMoon - icomoon.io
     background-color: #FFFFFF;
     border-color: #FFFFFF; }
   [data-background-color] .form-control::-moz-placeholder {
-    color: #ebebeb;
+    color: #9a9896;
     opacity: 1;
     filter: alpha(opacity=100); }
   [data-background-color] .form-control:-moz-placeholder {
-    color: #ebebeb;
+    color: #9a9896;
     opacity: 1;
     filter: alpha(opacity=100); }
   [data-background-color] .form-control::-webkit-input-placeholder {
-    color: #ebebeb;
+    color: #9a9896;
     opacity: 1;
     filter: alpha(opacity=100); }
   [data-background-color] .form-control:-ms-input-placeholder {
-    color: #ebebeb;
+    color: #9a9896;
     opacity: 1;
     filter: alpha(opacity=100); }
   [data-background-color] .form-control {
