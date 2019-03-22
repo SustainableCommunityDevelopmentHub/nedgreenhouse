@@ -4,9 +4,7 @@ description: Nederland’s community greenhouse is a showcase of high altitude f
 ---
 <div class="container">
                 <div class="content-center">
-                    <h3 class="title">Welcome!</h3>
-			
-                    <h5 class="description">The Nederland Greenhouse project site on East Street is ideally located in a highly visible and accessible location for community members' participation.  Our approach to  developing the structure and its agricultural potential is hands on, methodical, and participatory. We have had several meetups where food is served to volunteers, and new friendships were created.</h5>
+                    The Nederland Greenhouse project site on East Street is ideally located in a highly visible and accessible location for community members' participation.  Our approach to  developing the structure and its agricultural potential is hands on, methodical, and participatory. We have had several meetups where food is served to volunteers, and new friendships were created.
                    
 		</div>
 </div>
