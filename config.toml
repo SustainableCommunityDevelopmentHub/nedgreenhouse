@@ -33,16 +33,16 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 [[menu.footer]]
     identifier = "twitter"
     pre = "<i class='fa fa-twitter'></i>"
-    url = "https://twitter.com/cboettig"
+    url = "https://twitter.com/nedgreenhouse"
     weight = 1
 [[menu.footer]]
     identifier = "github"
     pre = "<i class='fa fa-github'></i>"
-    url = "https://github.com/cboettig"
+    url = "https://github.com/SustainableCommunityDevelopmentHub/nedgreenhouse"
     weight = 2
 [[menu.footer]]
     identifier = "copyright"
-    name = "(C) 2019 Ned Greenhouse, SCd Hub"
+    name = "(C) 2019 Ned Greenhouse, SCD Hub"
     pre = "<i class='fa fa-balance-scale'></i>"
     url = "https://spdx.org/licenses/MIT"
     weight = 3
