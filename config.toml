@@ -42,7 +42,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     weight = 2
 [[menu.footer]]
     identifier = "copyright"
-    name = "(C) 2019 Ned Greenhouse, SCD Hub"
+    name = "(C) 2019 Ned Greenhouse"
     pre = "<i class='fa fa-balance-scale'></i>"
     url = "https://spdx.org/licenses/MIT"
     weight = 3
