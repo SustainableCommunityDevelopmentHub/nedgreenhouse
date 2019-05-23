@@ -43,8 +43,8 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 [[menu.footer]]
     identifier = "copyright"
     name = "(C) 2019 Ned Greenhouse, SCD Hub"
-    pre = "<i class='fa fa-balance-scale'></i>"
-    url = "https://spdx.org/licenses/MIT"
+    pre = "<i class='fa fa-smile'></i>"
+    url = "https://www.gnu.org/licenses/gpl-3.0.txt"
     weight = 3
 
 
